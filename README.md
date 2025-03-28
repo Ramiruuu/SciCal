@@ -1,6 +1,8 @@
 # Scientific Calculator Web Application
-
 A modern, responsive scientific calculator built with HTML, CSS, and JavaScript, offering a variety of mathematical operations and unit conversions.
+
+## Preview
+![image](https://github.com/user-attachments/assets/ab8859b6-82cc-442a-95ec-fd36aeca21d0)
 
 ## Features
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
